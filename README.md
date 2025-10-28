@@ -1,10 +1,10 @@
 # 5_STAGE_OSCILLATOR
-## EXPERIMENT6.b DesignaCMOSFive Stage AmplifierandfindouttheTransient and OP analysis.
+## EXPERIMENT6.b Design a CMOS Five Stage Amplifier and find out the Transient and OP analysis.
 
-## Aim:ToDesignCMOSFive StageAmplifierandPerformTransient and OP analysis.
+## Aim:To Design CMOS Five Stage Amplifier and Perform Transient and OP analysis.
 
 ## ToolsUsed:
-VirtuosoSchematicEditorisusedforthedesignandanalysis.
+Virtuoso Schematic Editor is used for the design and analysis.
 
 ## Theory:
 A five-stage amplifier is a multistage amplifier system where five individual amplifier circuits are connected in cascade (series) to achieve a substantially higher overall gain than a single stage could provide. The primary function is to boost a weak input signal, often by dedicating initial stages to voltage gain and the final stage to high power/current gain. The total gain of the system is the product of the voltage gains of the five individual stages, making the system highly effective for applications like radio receivers or powerful audio systems. Interstage coupling (usually RC, transformer, or direct) ensures the AC signal passes efficiently while isolating the DC bias conditions of each stage.
