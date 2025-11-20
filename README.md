@@ -1,4 +1,6 @@
 # 5_STAGE_OSCILLATOR
+## REG NUM :
+## NAME :
 ## EXPERIMENT6.b Design a CMOS Five Stage Amplifier and find out the Transient and OP analysis.
 
 ## Aim:To Design CMOS Five Stage Amplifier and Perform Transient and OP analysis.
